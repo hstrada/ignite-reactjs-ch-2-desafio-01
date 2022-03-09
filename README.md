@@ -50,4 +50,4 @@ To clone the project, use the commands bellow:
 
 ## Expected Result
 
-![rocketshoes preview](https://github.com/hstrada/ignite-reactjs-desafio-01/blob/main/.github/assets/to.do.gif?raw=true)
+![rocketshoes preview](https://github.com/hstrada/ignite-reactjs-ch-2-desafio-01/blob/master/.github/assets/rocketshoes-preview.gif?raw=true)
