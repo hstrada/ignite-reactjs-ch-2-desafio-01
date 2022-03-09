@@ -1,8 +1,8 @@
 # RocketShoes
 
-RcoketShoes
+RocketShoes
 
-![RocketShoes image preview](https://github.com/hstrada/ignite-reactjs-ch-01-desafio-01/blob/main/.github/assets/rocketshoes.png?raw=true)
+![RocketShoes image preview](https://github.com/hstrada/ignite-reactjs-ch-2-desafio-01/blob/master/.github/assets/rocketshoes.png?raw=true)
 
 ---
 ## 👨‍💻️ Technologies Used
@@ -12,7 +12,7 @@ This project was developed using the technologies bellow:
 ### FrontEnd
 
   - [ReactJS](https://pt-br.reactjs.org/)
-
+  - [ContextAPI]
   
 ### Dependencies
 
